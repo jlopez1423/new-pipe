@@ -1,0 +1,7 @@
+
+.ftpconfig
+.DS_Store
+.remote-sync.json
+sftp-config.json
+.ftpignore
+
